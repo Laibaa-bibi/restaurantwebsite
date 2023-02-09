@@ -1,0 +1,111 @@
+
+.logo{
+	font-size: 45px;
+	color: white;
+	position: relative;
+	right: 51%;
+}
+.logo span{
+	font-size: 35px;
+	color: burlywood;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+	position:relative ;
+	left: 34%;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 150%;
+}
+
+li a:hover {
+  background-color: brown;
+}
+.br{
+	width: 10%;
+	font-size: 20px;
+	padding: 10px 15 px ;
+	background: brown;
+	color: white;
+	cursor: pointer;
+	border: 1px solid brown;
+}
+.cm{
+	text-align: center;
+	margin-top: 10px;
+}
+.bm{
+	border: 1px solid black;
+	padding: 10px 20px;
+	cursor: pointer;
+	background-color: darkslategray;
+	color: white;
+	margin: 10px;
+	font-size: 20px;
+}
+
+.bm:hover{
+	background-color: brown;
+}
+
+h2t
+{color:black;
+font-size:250%;
+position: relative;
+left: 37%;
+}
+
+.footer{
+	width: 100%;
+	padding: 100px 15%;
+	background-color: black;
+	color: white;
+	display: flex;
+	border-top-left-radius: 105px;
+}
+.footer div{
+	text-align: center;
+}
+.col2{
+	flex-grow: 0.5;
+}
+.footer div h13{
+	font-weight: 300;
+	font-size: 25px;
+	color: burlywood;
+}
+
+.footer div h14{
+	font-weight: 300;
+	font-size: 25px;
+	position: relative;
+	top: -15px;
+	right: 10%;
+color: burlywood;}
+
+.col1 p{
+ position: relative;
+ left: 17%;
+ top: -15px;
+ font-size: 19px;
+}
+.col2 a{
+	text-decoration: none;
+	display: block;
+	color: white;
+	font-size: 20px;
+}
